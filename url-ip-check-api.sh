@@ -25,7 +25,7 @@ else
 fi
 
 # Get API token
-token="cd8ea3bd23c64b1a8b411cd71b84c359"
+token=<enter API token from api.findip.net here>
 
 # Display formatted output for each IP address
 for index in "${!ip_addresses[@]}"; do
